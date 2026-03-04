@@ -1,1 +1,3 @@
-# tech-writer-git-lab
+# Data Monitoring Platform
+
+Internal documentation.
